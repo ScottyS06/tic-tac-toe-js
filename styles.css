@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+
+.header {
+  font-family: 'Press Start 2P', cursive;
+  margin:  5%;
+  color: #FEF2BF;
+  font-size: 2rem;
+}
+
+.title {
+  font-size: 3rem;
+}
+
+.player-info {
+  margin: 1.5rem;
+}
+
+.container {
+  display: block;
+}
+
+.btn {
+  height: 100px;
+  width: 100px;
+  border: 10px solid black;
+  border-radius: 10%;
+  line-height: 100px;
+  font-size: 3rem;
+  display: inline-block;
+  margin: 20px;
+  background-color: #FEF2BF;
+  font-family: 'Press Start 2P', cursive;
+  vertical-align: top;
+}
